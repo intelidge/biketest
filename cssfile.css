@@ -1,0 +1,592 @@
+.headerh{
+    margin-left: -10px;
+    margin-right: -10px;
+    height: 120px;
+    background-color: red;
+  }
+ 
+ 
+  .firstB{
+   color: white;
+   margin-left: 370px;
+   margin-top: -10px;
+   margin-bottom: 20px;
+   font-size: 15px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+ 
+ 
+  .secCOmp{
+    margin-top: -40px;
+   width: 500px;
+    margin-left: 1100px;
+  }
+ 
+  
+  .secCOmp .btnheads{
+    color: white;
+    border-radius: 1px;
+    border-color: red;
+    background-color: red;
+    font-size: 15px;
+  }
+ 
+  .secCOmp .imgsecson{
+    margin-bottom: -10px;
+    margin-top: 10px;
+  }
+ 
+  .headerh .img1{
+    margin-left: 370px;
+    margin-top: 30px;
+  }
+ 
+  .headsels{
+   margin-top: -30px;
+   margin-left: 700px;
+  }
+ 
+  .headsels .btnheads{
+    color: white;
+    border-radius: 1px;
+    border-color: red;
+    background-color: red;
+    font-size: 20px;
+  }
+ 
+  .scddivheada .secondsectable{
+    width: 500px;
+    margin-top: -55px;
+    margin-left: 1100px;
+  }
+ 
+  .secondsectable .bag{
+    margin-top: 10px;
+    margin-bottom: -10px;
+  }
+ 
+  .secondsectable .imgsec{
+    border: 2px solid ;
+  border-radius: 50% 50% 50% 50%;
+    border-color: white;
+  }
+  
+  .con2 .div1{
+   background-color: #29282d;
+   margin-top: -57.5px;
+   margin-left: -8px;
+   width: 650px;
+   height: 50px;
+ }
+ .con2  .div2{
+   background-color: #29282d;
+   margin-top: -80px;
+   margin-left: 645px;
+   width: 660px;
+   height: 50px;
+ }
+ 
+ .con2 .div3{
+   background-color: #29282d;
+   margin-top: -80px;
+   margin-left: 1308px;
+   width: 650px;
+   height: 50px;
+ }
+ 
+ .div1 p{
+   color: white;
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-bottom: -40px;
+   margin-top: 50px;
+   margin-left: 190px;
+ 
+ }
+ 
+ .div1 img{
+   margin-left: 140px;
+ }
+ 
+ .div2 p{
+   color: white;
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-bottom: -40px;
+   margin-left: 250px;
+ 
+ }
+ 
+ .div2 img{
+   margin-left: 200px;
+ }
+ 
+ .div3 p{
+   color: white;
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-bottom: -40px;
+   margin-left: 190px;
+ }
+ 
+ .div3 img{
+   margin-left: 140px;
+ }
+ 
+ .con2 .cont1{
+   font-size: 50px;
+   color: #29282d;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ .con2 .cont2{
+   font-size: 90px;
+   font-weight: 800;
+   color: #29282d;
+   margin-top: -50px;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .con2 .cont3{
+   margin-top: -120px;
+   font-size: 70px;
+   font-weight: 600;
+   color: white;
+   background-color: #29282d;
+   padding: 10px 5px 0 0 ;
+   width: 200px;
+   margin-left: 3px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ .con2 .con2btn{
+   color: white;
+   background-color: red;
+   border-color: red;
+   width: 110px;
+   height: 50px;
+ }
+ 
+ .con2 .textcon2{
+   margin-left: 100px;
+   margin-top: 150px;
+   position: absolute;
+ }
+ 
+ .con2 .btncon2{
+   position: absolute;
+   margin-top: 500px;
+   margin-left: 100px;
+ }
+ 
+ .con2 .knopki{
+   margin-top: 70px;
+ }
+ 
+  .con3{
+   margin-top: 60px;
+   margin-left: 350px;
+  }
+ 
+  .con3 td, th {
+     padding: 10px;
+   }
+ 
+ 
+ 
+  .con4 .fdiv .catH{
+   font-size: 50px;
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #29282d;
+   margin-left: 820px;
+  }
+ 
+  .con4 .fdiv .minil{
+   background-color: #29282d;
+   height: 5px;
+   width: 1194px;
+   margin-left: 350px;
+   margin-top: -30px;
+   margin-bottom: 50px;
+  }
+ 
+  
+  .con4 .sdiv .Bikestable{
+   margin-left: 335px;
+   border-collapse: collapse; /* РЈР±РёСЂР°РµРј РґРІРѕР№РЅС‹Рµ РіСЂР°РЅРёС†С‹ */
+ }
+ 
+ .con4 .sdiv .Bikestable td, th{
+   padding: 10px;
+ }
+ 
+ .con4 .sdiv .Bikestextable{
+   position: absolute;
+   margin-top: -800px;
+   color: white;
+   margin-left: 180px;
+ }
+ 
+ 
+ 
+ 
+ .con4 .sdiv .Bikestextable td {
+   padding: 40px;
+   padding-left: 190px;
+ }
+  
+ .con4 .sdiv .Bikestextable .FT{
+   font-size: 30px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 500;
+   color: #e1e1e1;
+ }
+ 
+ .con4 .sdiv .Bikestextable .ST{
+   font-size: 25px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: #e1e1e1;
+ }
+ 
+ 
+ 
+ .con5 .fdiv .FeatP{
+   font-size: 50px;
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #29282d;
+   margin-left: 750px;
+  }
+ 
+  .con5 .fdiv .unline{
+   background-color: #29282d;
+   height: 5px;
+   width: 1194px;
+   margin-left: 350px;
+   margin-top: -30px;
+   margin-bottom: 50px;
+  }
+ 
+ 
+ .con5 .sdiv .veliks5 {
+   width: 300px;
+   margin-left: 300px;
+ }
+ 
+ .con5 .sdiv .veliks5 .vel{
+   width: 275px;
+   padding-left: 30px;
+   height: auto;
+ }
+ 
+ .con5 .sdiv .veliks5 .vel1{
+   width: 275px;
+   margin-top: -30px;
+   height: auto;
+   padding-left: 30px;
+ }
+ 
+ .con5 .sdiv .veliks5 .vel4{
+   width: 275px;
+   margin-top: 0px;
+   height: auto;
+   padding-left: 30px;
+ }
+ 
+ .con5 .sdiv .veliks5 .newT1{
+   position: absolute;
+   margin-top: -12px;
+   margin-left: -60px;
+   color: #29282d;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .con5 .sdiv .veliks5 .newT2{
+   position: absolute;
+   margin-top: 20px;
+   margin-left: -60px;
+   color: #29282d;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .con5 .sdiv .veliks5 .newT3{
+   position: absolute;
+   margin-top: 20px;
+   margin-left: -60px;
+   color: #29282d;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .con5 .sdiv .veliks5 .newT4{
+   position: absolute;
+   margin-top: 20px;
+   margin-left: -50px;
+   color: #29282d;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ 
+ .con5 .sdiv .veliks5 .Left1{
+   position: absolute;
+   width: 35px;
+   margin-left: 45px;
+   margin-top: 90px;
+ }
+ 
+ .con5 .sdiv .veliks5 .right1{
+   position: absolute;
+   width: 35px;
+   margin-left: -50px;
+   margin-top: 115px;
+ }
+ 
+ .con5 .sdiv .veliks5 .txtt{
+   margin-left: 50px;
+   font-size: 20px;
+   text-align: center;
+   line-height: 2;
+   color: #797979;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .con5 .sdiv .veliks5 .star3{
+   margin-left: 140px;
+ }
+ 
+ .con5 .sdiv .veliks5 .star4{
+   margin-left: 140px;
+ }
+ 
+ .con6 .lefts .textL{
+   font-size: 40px;
+   font-family: Arial, Helvetica, sans-serif;
+   letter-spacing: 8px;
+   color: #29282d;
+   margin-left: 440px;
+ }
+ 
+ .con6 .lefts .fleftline{
+   background-color: #29282d;
+   margin-top: -30px;
+   width: 490px;
+   height: 5px;
+   margin-left: 430px;
+ }
+ 
+ .con6 .lefts .textL2{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #29282d;
+   margin-top: 40px;
+   margin-left: 460px;
+   letter-spacing: 3px;
+ }
+ 
+ .con6 .lefts .inputL{
+   margin-top: 10px;
+   width: 290px;
+   height: 40px;
+   font-size: 20px;
+   margin-left: 470px;
+   border-width: 0px;
+   background-color: #f7f7f7;
+ }
+ 
+ .con6 .lefts .btnleft{
+   height: 40px;
+   border-width: 0px;
+   width: 130px;
+   background-color: red;
+   color: white;
+   margin-left: 5px;
+ }
+ 
+ .con6 .lefts .sleftline{
+   background-color: #29282d;
+   margin-top: 70px;
+   width: 490px;
+   height: 2px;
+   margin-left: 430px;
+ }
+ 
+ .con6 .lefts .textL3{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #29282d;
+   margin-top: 50px;
+   margin-left: 490px;
+   letter-spacing: 4px;
+ }
+ 
+ .con6 .lefts .tableL .mes{
+   border: 2px solid ;
+   border-radius: 50% 50% 50% 50%;
+   border-color: #29282d;
+ }
+ 
+ .con6 .lefts .tableL{
+   margin-top: 30px;
+   margin-left: 570px;
+ }
+ 
+ .con6 .rights{
+   margin-left: 1100px;
+   margin-top: -460px;
+ }
+ 
+ .con6 .rights .textR1{
+   font-size: 40px;
+   margin-left: -20px;
+   font-family: Arial, Helvetica, sans-serif;
+   letter-spacing: 8px;
+   color: #29282d;
+ }
+ 
+ .con6 .rights .rightline{
+   background-color: #29282d;
+   margin-top: -30px;
+   width: 490px;
+   height: 5px;
+   margin-left: -150px;
+ }
+ 
+ .con6 .rights .textR2{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #29282d;
+   margin-top: 40px;
+   margin-left: 40px;
+   letter-spacing: 3px;
+ }
+ 
+ .con6 .rights .textR3{
+   font-size: 14px;
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #797979;
+   margin-top: 30px;
+   margin-left: -600px;
+   letter-spacing: 3px;
+   text-align: center;
+   line-height: 1.5;
+ }
+ 
+ .con6 .rights .textR4{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #29282d;
+   margin-top: 85px;
+   margin-left: 0px;
+   letter-spacing: 3px;  
+ }
+ 
+ .con6 .rights .textR5{
+   font-size: 14px;
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #797979;
+   margin-top: 30px;
+   margin-left: -600px;
+   letter-spacing: 3px;
+   text-align: center;
+   line-height: 2;
+ }
+ 
+ .con7{
+   height: 1290px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: 100px;
+   background-color: #26252a;
+ }
+ 
+ .con7 .con7img{
+   margin-top: 100px;
+ margin-left: 850px;
+ }
+ 
+ .con7 .con7div1T{
+   margin-left: 380px;
+   margin-top: 80px;
+   color: white;
+   font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif; 
+ }
+ .con7 .con7div1T p{
+   display: inline;
+   padding-left: 90px;
+   letter-spacing: 2px;
+ }
+ 
+ 
+ .con7 .Bikestextable{
+   margin-left: 350px;
+ }
+ 
+  
+ .con7 .Bikestextable td{
+   padding: 40px;
+   padding-left: 50px;
+ }
+ 
+ .con7 .Bikestextable .T1{
+   font-size: 30px;
+   letter-spacing: 3px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 500;
+   color: #e1e1e1;
+ }
+ 
+ .con7 .Bikestextable .T2{
+   font-size: 20px;
+   line-height: 1.5;
+   margin-top: 60px;
+   font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+   color: #e1e1e1;
+ }
+ 
+ .con7 .cards{
+   margin-top: 50px;
+   margin-left: 930px;
+ }
+ .con7 .cards .btncart{
+   margin-top: -20px;
+   margin-left: 770px;
+   position: absolute;
+   border-radius: 50% 50% 50% 50%;
+   rotate: 90deg;
+ }
+ 
+ 
+ 
+ /*/////////*/
+ 
+ 
+ .con7 .lasttext .textL{
+   margin-left: 690px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   color: #656466;
+ }
+ .con7 .lastimgs{
+   margin-top: 30px;
+   margin-left: 860px;
+ }
+ .con7 .lastimgs .imgsec{
+   width: 40px;
+   height: auto;
+   border: 2px solid ;
+   border-radius: 50% 50% 50% 50%;
+   border-color: white;
+ 
+ }
+ 
+ 
+ .con7  .btncart{
+   margin-left: 1800px;
+   width: 70px;
+   height: 70px;
+ }
+ 
